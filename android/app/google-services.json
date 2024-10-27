@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "750548797583",
+    "project_id": "cs184hw02-ed39c",
+    "storage_bucket": "cs184hw02-ed39c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750548797583:android:2fff59a128c601631cc8fa",
+        "android_client_info": {
+          "package_name": "com.firosi.googletutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750548797583-dbrv20rubrp5hhkcvfe4n81l7c0s8ubt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firosi.googletutorial",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "750548797583-8oj6srrg71vqugjovck2elr95s6p5ipd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1EK8A4urHZmmIOugHOFi8O2PveI7AJlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750548797583-8oj6srrg71vqugjovck2elr95s6p5ipd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
